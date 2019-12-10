@@ -1,2 +1,7 @@
 
 .DS_Store
+.history
+venv
+__pycache__
+.vscode/settings.json
+*.pyc
